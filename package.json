@@ -1,0 +1,26 @@
+{
+  "name": "c-sharp-snippet",
+  "displayName": "cSharpSnippet",
+  "publisher": "MD. Jashim Uddin",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JuCuAcc/cSharpSnippet.git"
+  },
+  "description": "this extension can create basic c-sharp template code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "csharp",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

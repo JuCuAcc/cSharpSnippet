@@ -1,0 +1,11 @@
+{
+  "C# Boiletplate code": {
+    "prefix": "!cs",
+    "body": [
+
+      "\"Data Source=myServerAddress;Initial Catalog=myDataBase;User ID=myUsername;Password=myPassword;\""
+
+    ],
+    "description": "Basic C# connectionString Code"
+  }
+}
