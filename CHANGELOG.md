@@ -1,10 +1,8 @@
 # Change Log
 
-All notable changes to the "c-sharp-snippet" extension will be documented in this file.
+All notable changes to the "c-sharp-snippet" extension.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [Released]
 
 - Initial release
 
@@ -17,4 +15,3 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Fixed Extension
 
 ## [0.0.3] - 2023-01-23
-
