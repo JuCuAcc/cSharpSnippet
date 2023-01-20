@@ -3,10 +3,31 @@
 This extension allows users to quickly generate basic C# template code within Visual Studio Code.
 
 ## Features
-- Generates C# class template
-- Generates C# interface template
-- Generates C# struct template
-- Generates C# enum template
+| Snippet Shortcut | Description |
+| ---------------- | ----------- |
+| !cs-class       | Generates C# class template|
+| !cs-interface   | Generates C# interface template|
+| !cs-struct      | Generates C# struct template|
+| !cs-enum        | Generates C# enum template|
+| !cs-console     | Generates C# Console App starting code |
+| !cs-method      | Generates C# method template |
+| !cs-prop        | Generates C# property template |
+| !cs-ctor        | Generates C# constructor template |
+| !cs-if          | Generates C# if statement template |
+| !cs-switch      | Generates C# switch statement template |
+| !cs-while       | Generates C# while loop template |
+| !cs-for         | Generates C# for loop template |
+| !cs-foreach     | Generates C# foreach loop template |
+| !cs-trycatch    | Generates C# try-catch block template |
+| !cs-using       | Generates C# using statement template |
+| !cs-lock        | Generates C# lock statement template |
+| !cs-return      | Generates C# return statement template |
+| !cs-namespace   | Generates C# namespace template |
+| !cs-abstract    | Generates C# abstract class template |
+| !cs-partial     | Generates C# partial class template |
+| !cs-static      | Generates C# static method template |
+| !cs-conn        | Generates C# connectionString |
+
 
 ## Usage
 1. Open Visual Studio Code and navigate to the Extensions view (`View > Extensions`)
@@ -23,9 +44,9 @@ This extension allows users to quickly generate basic C# template code within Vi
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.2
 - Initial release
-- Includes class, interface, struct, and enum template generation.
+- Includes class, interface, struct, enum, console app, method, property, constructor, if statement, switch statement, while loop, for loop, foreach loop, try-catch block, using statement, lock statement, return statement, namespace, abstract class, partial class, static method, and connectionString template generation.
 
 ## Contributing
 
