@@ -1,6 +1,7 @@
 # cSharpSnippet Extension for VS Code
 
 This extension allows users to quickly generate basic C# template code within Visual Studio Code.
+https://marketplace.visualstudio.com/items?itemName=MDJashimUddin.c-sharp-snippet
 
 ## Features
 | Snippet Shortcut | Description |
