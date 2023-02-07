@@ -45,7 +45,7 @@ https://marketplace.visualstudio.com/items?itemName=MDJashimUddin.c-sharp-snippe
 
 ## Release Notes
 
-### 0.0.2
+### 0.0.3
 - Initial release
 - Includes class, interface, struct, enum, console app, method, property, constructor, if statement, switch statement, while loop, for loop, foreach loop, try-catch block, using statement, lock statement, return statement, namespace, abstract class, partial class, static method, and connectionString template generation.
 
